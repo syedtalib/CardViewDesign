@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<Contact> contacts;
     ContactAdapter contactAdapter;
 
+    //mainactivity
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
